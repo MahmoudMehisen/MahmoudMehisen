@@ -88,8 +88,11 @@ Senior Software Engineer with **5+ years of experience** building **scalable bac
 
 ---
 
-![Snake animation](https://github.com/MahmoudMehisen/MahmoudMehisen/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MahmoudMehisen/MahmoudMehisen/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahmoudMehisen&theme=onedark&row=1&column=6" />
-</p>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=MahmoudMehisen&theme=onedark&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
+</p>>
